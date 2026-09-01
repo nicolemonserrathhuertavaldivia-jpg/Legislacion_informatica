@@ -75,14 +75,17 @@ La Unión Europea maneja un esquema estricto de **autoridades independientes de 
 - Faculta a cada ciudadano a resguardar sus datos particulares, permitiéndole consultar, corregir, borrar o negar el uso de su información confidencial conforme a los procedimientos legales.
 
 
+**ACT 1.4**
 
-
-
-
-
-
-
-
+| **Área de Regulación**          | **Problemática / Riesgo**                                                                        |
+| ------------------------------- | ------------------------------------------------------------------------------------------------ |
+| **Suplantación de Identidad**   | Clonación de voz, _deepfakes_ y creación de perfiles falsos para fraudes o engaños.              |
+| **Datos de Entrenamiento**      | Uso no autorizado de datos personales o privados para entrenar modelos de IA.                    |
+| **Derechos de Autor**           | Explotación de obras protegidas por _copyright_ sin compensación a los creadores originales.     |
+| **Ciberataques**                | Automatización de virus, software malicioso (_malware_) y ataques de ingeniería social/phishing. |
+| **Restricciones en Salud**      | Diagnósticos erróneos, automedicación impulsada por IA o recomendaciones médicas sin sustento.   |
+| **Contenido Ilegal u Obsceno**  | Generación de material pornógráfico no consentido, violencia explícita o abuso de menores.       |
+| **Suplantación de Profesiones** | Ejercicio no autorizado de profesiones reguladas (abogados, médicos, contadores, ingenieros).    |
 
 
 
