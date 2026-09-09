@@ -1,9 +1,9 @@
- **TAREA 1.1**
+ **ACT 1.1**
 
 **LO QUE ESPERO DE LA MATERIA SEGUN EL TEMARIO:**
 Espero que en esta materia podamos conocer y comprender los aspectos legales, éticos y sociales relacionados con la inteligencia artificial, así como las normas que regulan su desarrollo y uso. También espero aprender sobre la protección de datos personales, la privacidad, las responsabilidades de quienes desarrollan y utilizan sistemas de IA y los retos que pueden surgir con el avance de esta tecnología. Finalmente, espero adquirir conocimientos que me permitan utilizar la inteligencia artificial de manera responsable, segura y ética en diferentes ámbitos.
 
-**TAREA 1.2**
+**ACT 1.2**
 
 **INVESTIGAR QUE ORGANISMO SUSTITUYO AL INAI Y LOS ORGANISMOS SIMILARES EN ESTADOS UNIDOS Y LA UNION EUROPEA**
 
@@ -86,18 +86,106 @@ La Unión Europea maneja un esquema estricto de **autoridades independientes de 
 | **Restricciones en Salud**      | Diagnósticos erróneos, automedicación impulsada por IA o recomendaciones médicas sin sustento.   |
 | **Contenido Ilegal u Obsceno**  | Generación de material pornógráfico no consentido, violencia explícita o abuso de menores.       |
 | **Suplantación de Profesiones** | Ejercicio no autorizado de profesiones reguladas (abogados, médicos, contadores, ingenieros).    |
+![[Pasted image 20260909104706.png]]
+![[Pasted image 20260909104735.png]]
+![[Pasted image 20260909104759.png]]
+![[Pasted image 20260909104810.png]]
 
+**El Ciclo de Vida de un Sistema de IA y sus Implicaciones Legales**
+ desarrollo e implementación de Inteligencia Artificial no es solo un proceso técnico, sino una cadena de etapas donde cada fase genera obligaciones jurídicas específicas y asigna responsabilidades a distintos actores (desarrolladores, proveedores o usuarios).
 
+**1. Recolección de Datos**
 
+- **Objetivo técnico:** Obtener el volumen de información necesario para alimentar y preparar el sistema.
+    
+- **Aspectos legales clave:**
+      
+    - **Consentimiento:** Verificar que los titulares de los datos hayan autorizado expresamente su recolección y uso.
+        
+    - **Aviso de privacidad:** Informar de forma clara qué datos se recogen, para qué fines y cómo se protegerán.
+        
 
+**2. Entrenamiento del Modelo**
 
+- **Objetivo técnico:** Procesar los datos para que el algoritmo aprenda patrones, ajuste parámetros y genere un modelo funcional.
+    
+- **Aspectos legales clave:**
+    
+    - **Licencias de uso:** Garantizar que los conjuntos de datos (_datasets_) o fragmentos de código utilizados respeten los derechos de autor y propiedad intelectual.
+        
+    - **Datos sensibles:** Evaluar si se maneja información delicada (salud, datos biométricos, ideología) que requiera niveles reforzados de seguridad y anonimización.
+        
 
+**3. Despliegue del Sistema**
 
+- **Objetivo técnico:** Poner la herramienta de IA a disposición de los usuarios o integrarla en un entorno de producción activo.
+    
+- **Aspectos legales clave:**
+      
+    - **Notificación de IA:** Comunicar explícitamente a los usuarios cuando estén interactuando con un sistema automatizado o contenido generado por IA.
+        
+    - **Transparencia:** Detallar el alcance, las capacidades y las limitaciones operativas del sistema.
+        
 
+**4. Decisión Automatizada**
 
+- **Objetivo técnico:** La IA procesa entradas en tiempo real para tomar decisiones o emitir juicios sin intervención directa constante.
+    
+- **Aspectos legales clave:**
+    
+      
+    - **Explicabilidad:** Contar con la capacidad técnico-jurídica de fundamentar cómo y por qué el modelo llegó a un determinado resultado o veredicto.
+        
+    - **Revisión humana:** Ofrecer mecanismos de supervisión e impugnación para que una persona pueda auditar o corregir una decisión automatizada si esta perjudica a un individuo.
+        
 
+**5. Conservación y Supresión**
 
+- **Objetivo técnico:** Gestionar la retención o eliminación de los datos e historiales acumulados una vez cumplida su finalidad.
+    
+- **Aspectos legales clave:**
+    
+    - **Plazo definido:** Establecer tiempos límitados de almacenamiento conforme a las normativas de protección de datos.
+        
+    - **Destrucción con evidencia:** Aplicar protocolos de borrado seguro e irrecuperable, generando actas o certificaciones que acrediten la eliminación de la información.
+        
+**Clasificación por Nivel de Riesgo (Unión Europea)**
+**Lógica europea:** La obligación crece con el daño potencial, no con la complejidad técnica del modelo.
 
+**Niveles de riesgo y sus regulaciones:**
+
+- **Riesgo inaceptable**
+      
+    - **Estatus/Características:** Prohibidos.
+        
+    - **Casos de uso:** Manipulación del comportamiento, puntaje social, ciertos usos de identificación biométrica en tiempo real en espacios públicos.
+        
+- **Alto riesgo**
+    
+    - **Estatus/Características:** Permitidos con obligaciones estrictas.
+        
+    - **Casos de uso:** Salud, empleo, educación, justicia, crédito, infraestructura crítica, migración.
+        
+- **Riesgo limitado**
+    
+    - **Estatus/Características:** Obligación de transparencia. El usuario debe saber que interactúa con una IA.
+        
+    - **Casos de uso:** _Chatbots_, contenido sintético, _deepfakes_ etiquetados.
+        
+- **Riesgo mínimo**
+    
+    - **Estatus/Características:** Sin obligaciones específicas. La mayoría de los sistemas cae aquí.
+        
+    - **Casos de uso:** Filtros de _spam_, videojuegos, recomendadores simples.
+
+|**Categoría**|**Descripción**|
+|---|---|
+|**Gestión de riesgos**|Un proceso documentado y continuo para identificar, evaluar y mitigar riesgos durante todo el ciclo de vida.|
+|**Gobernanza de datos**|Datasets pertinentes, representativos y con examen de posibles sesgos. Origen y tratamiento documentados.|
+|**Documentación técnica**|Descripción del sistema, su propósito, arquitectura, métricas y limitaciones conocidas, disponible para la autoridad.|
+|**Registro de eventos**|Trazabilidad automática de la operación, para poder reconstruir qué pasó cuando algo sale mal.|
+|**Supervisión humana**|Una persona debe poder entender la salida, intervenir y detener el sistema. La automatización no puede ser total.|
+|**Robustez y ciberseguridad**|Precisión adecuada al uso, resistencia a errores y a ataques adversarios, y comportamiento coherente en el tiempo.|
 
 
 
