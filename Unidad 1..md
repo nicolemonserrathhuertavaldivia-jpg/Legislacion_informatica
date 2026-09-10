@@ -187,7 +187,26 @@ La Unión Europea maneja un esquema estricto de **autoridades independientes de 
 |**Supervisión humana**|Una persona debe poder entender la salida, intervenir y detener el sistema. La automatización no puede ser total.|
 |**Robustez y ciberseguridad**|Precisión adecuada al uso, resistencia a errores y a ataques adversarios, y comportamiento coherente en el tiempo.|
 
-
+**ACT 1.5**
+- Riesgo inaceptable
+    
+- Alto riesgo
+    
+- Riesgo limitado
+    
+- Riesgo mínimo
+    
+- Filtro de currículos $\rightarrow$ Alto riesgo
+    
+- Apoyo al diagnóstico $\rightarrow$ Alto riesgo
+    
+- Chat bot de atención $\rightarrow$ Riesgo limitado
+    
+- Vigilancia de exámenes $\rightarrow$ Alto riesgo
+    
+- Generador de rostros $\rightarrow$ Riesgo limitado
+    
+- Scoring crediticio $\rightarrow$ Alto riesgo
 
 
 
