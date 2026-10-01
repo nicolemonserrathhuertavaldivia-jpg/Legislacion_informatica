@@ -1,4 +1,4 @@
- **ACT 1.1**
+0000  **ACT 1.1**
 
 **LO QUE ESPERO DE LA MATERIA SEGUN EL TEMARIO:**
 Espero que en esta materia podamos conocer y comprender los aspectos legales, éticos y sociales relacionados con la inteligencia artificial, así como las normas que regulan su desarrollo y uso. También espero aprender sobre la protección de datos personales, la privacidad, las responsabilidades de quienes desarrollan y utilizan sistemas de IA y los retos que pueden surgir con el avance de esta tecnología. Finalmente, espero adquirir conocimientos que me permitan utilizar la inteligencia artificial de manera responsable, segura y ética en diferentes ámbitos.
@@ -208,6 +208,8 @@ La Unión Europea maneja un esquema estricto de **autoridades independientes de 
     
 - Scoring crediticio $\rightarrow$ Alto riesgo
 
+
+**
 
 
 
